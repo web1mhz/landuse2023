@@ -1,0 +1,25 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Thematic</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <ColorInterp>Palette</ColorInterp>
+    <Histograms>
+      <HistItem>
+        <HistMin>0.5714285714285714</HistMin>
+        <HistMax>7.428571428571429</HistMax>
+        <BucketCount>7</BucketCount>
+        <IncludeOutOfRange>0</IncludeOutOfRange>
+        <Approximate>1</Approximate>
+        <HistCounts>1492|11954|81094|4178|29|305|276</HistCounts>
+      </HistItem>
+    </Histograms>
+    <Metadata>
+      <MDI key="RepresentationType">THEMATIC</MDI>
+      <MDI key="STATISTICS_MAXIMUM">7</MDI>
+      <MDI key="STATISTICS_MEAN">2.912582554768</MDI>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_STDDEV">0.53676408281867</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
